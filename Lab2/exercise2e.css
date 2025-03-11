@@ -1,0 +1,26 @@
+#telecom{
+    height: auto;
+    width: 512px;
+    float: left;
+    margin-right: 14px;
+}
+#div_1 {
+    border: 1px solid black;
+    padding: 13px;
+}
+#div_2 {
+    padding: 5px;
+}
+#div_3 {
+    background-color: grey;
+    margin: 10px;
+}
+
+.foreground {
+    position: fixed;
+    top: 119px;
+    left: 119px;
+    width: 405px;
+    height: 405px;
+    z-index: 1;
+}
