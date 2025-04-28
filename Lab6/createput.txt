@@ -1,0 +1,6 @@
+curl -X PUT http://localhost:8000/pubref/bonald:hal-01592105 \
+-H "Content-Type: application/json" \
+-d '{
+    "title": "Updated Title for Crowdsourcing",
+    "year": "2022"
+}'
